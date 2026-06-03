@@ -1,0 +1,8 @@
+# Stata temporary and log files
+*.log
+*.smcl
+*.gph
+*.dta.bak
+*.do.bak
+*~*
+.DS_Store
